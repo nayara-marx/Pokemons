@@ -14,19 +14,6 @@
   Uma Pokédex inteligente capaz de identificar Pokémons a partir de imagens utilizando <strong>Inteligência Artificial</strong> e <strong>Visão Computacional</strong>.
 </p>
 
----
-
-## 📋 Índice
-
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Tecnologias](#-tecnologias)
-- [Funcionalidades](#-funcionalidades)
-- [Pokémons Suportados](#-pokémons-suportados)
-- [Como Usar](#-como-usar)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Modelo de IA](#-modelo-de-ia)
-- [Interface](#-interface)
-- [Aprendizados](#-aprendizados)
 
 ---
 
@@ -158,17 +145,6 @@ A interface foi desenvolvida com visual temático da Pokédex clássica, com:
 
 ---
 
-## 📌 Aprendizados
-
-Este projeto proporcionou experiência prática em:
-
-- ✅ Machine Learning aplicado a imagens
-- ✅ Treinamento de modelos com PyTorch
-- ✅ Transfer Learning com ResNet18
-- ✅ Integração entre IA, backend (Flask) e frontend
-- ✅ Organização de projeto e versionamento com Git/GitHub
-
----
 
 ## 👩‍💻 Participantes:
 
