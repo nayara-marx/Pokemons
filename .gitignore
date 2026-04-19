@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+static/upload.jpg
+dataset/
+modelo_pokemon.pth
