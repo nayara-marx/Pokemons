@@ -174,9 +174,14 @@ Este projeto proporcionou experiência prática em:
 
 - Hugo Batista
 - João
--Nayara
--Stela
--Thiago
+- Nayara
+- Stela
+- Thiago
+
+
+
+
+
 
 ```bash
 
