@@ -170,11 +170,13 @@ Este projeto proporcionou experiência prática em:
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Participantes:
 
-Feito com 💙 por **Nayara Marx**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayara-marx)
+- Hugo Batista
+- João
+-Nayara
+-Stela
+-Thiago
 
 ```bash
 
